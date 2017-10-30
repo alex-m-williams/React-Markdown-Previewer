@@ -3,7 +3,7 @@ import marked from 'marked';
 import logo from './logo.svg';
 import './App.css';
 
-class Display extends Component {
+class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -89,4 +89,4 @@ class MarkdownExample extends Component {
   }
 }
 
-export default Display;
+export default App;

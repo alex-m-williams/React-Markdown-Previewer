@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.display-container {
+	background-color: beige;
+	padding-top: 20px;
+	padding-left: 15px;
+}
